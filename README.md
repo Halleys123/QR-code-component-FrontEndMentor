@@ -20,6 +20,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/Halleys123/QR-code-component-FrontEndMentor)
+- Live URL: [Netlify](https://main--jade-malasada-619b97.netlify.app)
 
 ## My process
 
