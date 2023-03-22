@@ -19,7 +19,7 @@ body {
 }
 
 @media screen and (max-width: 1440px) {
-  .container {
+  main {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -60,7 +60,7 @@ body {
   }
 }
 @media screen and (max-width: 375px) {
-  .container {
+  main {
     width: 90%;
   }
 }
